@@ -1,5 +1,5 @@
 # 10-bit-CPU
-10-bit CPU
+### 10-bit CPU
 
 1. Open the .circ file with logisim circuit simulator
 2. Right click the RAM to load test file
@@ -18,3 +18,5 @@
   12. BNEZ
   13. NOP
   14. HALT
+  ### Screenshot:
+  ![screenshot](screenshot.PNG)
